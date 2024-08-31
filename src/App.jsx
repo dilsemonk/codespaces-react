@@ -1,6 +1,3 @@
-import './App.css';
-
-
 function App() {
   return (
     <div className="App">
@@ -9,8 +6,8 @@ function App() {
         <p>
           GitHub Codespaces <span className="heart">♥️</span> React!!
         </p>
-        <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+        <p class="text-purple-500">
+         skdjhjakshdjkashd
         </p>
         <p>
           <a
